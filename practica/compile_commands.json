@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo07\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo06\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo05\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo04\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo08\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo03\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo02\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\Miguel\\Documents\\practica\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\Miguel\\Documents\\practica\\Ejemplo01\\main.cpp -o C:\\Users\\Miguel\\Documents\\practica\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
